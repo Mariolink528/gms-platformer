@@ -21,4 +21,24 @@ if ((l06394292_0 > 0))
 	/// @DnDParent : 06394292
 	/// @DnDArgument : "force" "0"
 	gravity = 0;
+
+	/// @DnDAction : YoYo Games.Common.Execute_Code
+	/// @DnDVersion : 1
+	/// @DnDHash : 5B523C02
+	/// @DnDParent : 06394292
+	/// @DnDArgument : "code" "if (vspeed > 0) {$(13_10)	$(13_10)	$(13_10)	$(13_10)}$(13_10)else if (vspeed > 0) {$(13_10)	$(13_10)$(13_10)}$(13_10)else {$(13_10)	$(13_10)$(13_10)$(13_10)}"
+	if (vspeed > 0) {
+		
+		
+		
+	}
+	else if (vspeed > 0) {
+		
+	
+	}
+	else {
+		
+	
+	
+	}
 }
