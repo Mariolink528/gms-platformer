@@ -25,8 +25,7 @@ if (!(l54451AE1_0 > 0))
 	/// @DnDVersion : 1
 	/// @DnDHash : 036184F9
 	/// @DnDParent : 54451AE1
-	/// @DnDArgument : "speed" "0.5"
-	image_speed = 0.5;
+	image_speed = 1;
 
 	/// @DnDAction : YoYo Games.Instances.Set_Sprite
 	/// @DnDVersion : 1
