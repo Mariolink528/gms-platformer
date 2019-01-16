@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "2b0b6bb9-809e-4177-8439-54c23b0a2b26",
+            "Value": {
+                "id": "123b562c-d808-42c6-8340-eb5a969e557b",
+                "resourcePath": "fonts\\font_HUD\\font_HUD.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "2e2c4234-a0ed-4236-a0cb-63eb0e8d94d3",
             "Value": {
                 "id": "7023a8dc-c182-4133-b09c-61c0de40debb",
