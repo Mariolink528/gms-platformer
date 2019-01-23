@@ -9,6 +9,6 @@ image_index = irandom_range(0,3);
 
 /// @DnDAction : YoYo Games.Instances.Sprite_Animation_Speed
 /// @DnDVersion : 1
-/// @DnDHash : 3F69E2FF
+/// @DnDHash : 5379DEDB
 /// @DnDArgument : "speed" "0"
 image_speed = 0;

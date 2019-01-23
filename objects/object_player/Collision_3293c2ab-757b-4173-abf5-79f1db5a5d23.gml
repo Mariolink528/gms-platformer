@@ -6,6 +6,15 @@
 /// @DnDArgument : "value" "other.y"
 if(y+10 < other.y)
 {
+	/// @DnDAction : YoYo Games.Common.Variable
+	/// @DnDVersion : 1
+	/// @DnDHash : 316B7F8D
+	/// @DnDParent : 079773FF
+	/// @DnDArgument : "expr" "100"
+	/// @DnDArgument : "expr_relative" "1"
+	/// @DnDArgument : "var" "game_manager.player1_score"
+	game_manager.player1_score += 100;
+
 	/// @DnDAction : YoYo Games.Instance Variables.Set_Score
 	/// @DnDVersion : 1
 	/// @DnDHash : 331FFEA3
